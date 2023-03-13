@@ -1,27 +1,23 @@
-# ProyectoFinalAngular
+# Proyecto Final Bootcamp Mad 01/2023
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+Tienda de muebles:
+En este proyecto tengo pensado hacer una tienda de muebles, dedicada a la venta al por menor.
 
-## Development server
+1. Tienda: será la página principal, la primera página que el usuario vea una vez entre a la web el cual contenga todos los productos en forma de carta, aquí aparecerán los productos de la tienda, una vez el cliente pase por encima de las cartas estas le dirán las características, precio y se le mostrara la opción de añadir unidades al carrito.
+2. Asi mismo la página principal tendrá un filtro según el producto.
+3. Info: incluirá una breve descripción de la tienda
+4. Login: apartado en el cual el usuario podrá acceder a su cuenta o registrarse si aún no lo está.
+5. Carrito: Aparecerá solo cuando el cliente añada algún producto, si no elige nada, no aparecerá.
+6. Una vez que el cliente tenga echa su lista y pulse el botón de comprar le llevara a una página que ponga compra finalizada, gracias.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# Final Project Bootcamp Mad 01/2023
 
-## Code scaffolding
+Furniture store:
+In this project I plan to make a furniture store, dedicated to retail.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Store: it will be the main page, the first page that the user sees once he enters the web, which contains all the products in the form of a letter, the products of the store will appear here, once the client passes over the These letters will tell you the features, price and will show you the option to add units to the cart.
+2. Likewise, the main page will have a filter according to the product.
+3. Info: it will include a brief description of the store
+4. Login: section in which the user can access their account or register if they are not already registered.
+5. Cart: It will appear only when the customer adds a product, if he does not choose anything, it will not appear.
+6. Once the customer has checked his list and presses the buy button, he will be taken to a page that says purchase completed, thank you.
